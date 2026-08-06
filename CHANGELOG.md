@@ -56,3 +56,4 @@ Release notes and development milestones.
 - [2026-08-05 21:03] style(visuals): add interactive network threat topology and packet flow diagrams
 - [2026-08-05 21:40] docs(arch): document zero-trust network inspection engine and sinkhole mechanics
 - [2026-08-06 09:36] docs(rules): publish heuristic scoring rubric and domain reputation algorithms
+- [2026-08-06 13:55] docs(deployment): provide Linux systemd daemon and Docker container setup guides
