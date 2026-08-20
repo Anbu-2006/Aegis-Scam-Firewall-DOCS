@@ -1,0 +1,40 @@
+PROPRIETARY SOFTWARE & SHOWCASE LICENSE
+=========================================
+
+Copyright (c) 2026 Anbuselvan T. (@Anbu-2006). All Rights Reserved.
+
+NOTICE
+------
+This repository serves as the official public showcase and technical
+overview for Aegis Scam Firewall — an AI-powered on-device anti-fraud
+firewall for mobile communications.
+
+It contains high-level architecture specifications, threat model overviews,
+benchmarking results, and release roadmap documentation ONLY.
+
+The underlying proprietary machine learning model weights, Android 
+telephony bridge engines, heuristic tokenizers, and production source code 
+are maintained in the private primary repository and remain the exclusive 
+intellectual property of Anbuselvan T.
+
+PERMITTED USAGE
+---------------
+You MAY:
+  1. Read, star, and share this repository for evaluation and technical review.
+  2. Open GitHub issues to request features, inquire about partnerships, or 
+     request early beta testing access.
+  3. Reference the public architectural paradigms with attribution.
+
+RESTRICTIONS
+------------
+You may NOT:
+  1. Claim ownership of or commercially exploit the Aegis Scam Firewall branding,
+     architecture, or research.
+  2. Attempt to reverse engineer or extract proprietary models from any 
+     compiled previews.
+  3. Replicate or republish the contents without explicit written consent.
+
+CONTACT & INQUIRIES
+-------------------
+Architect & Maintainer: Anbuselvan T.
+GitHub: https://github.com/Anbu-2006
